@@ -1,0 +1,11 @@
+C:\Users\scott.jones\source\repos\X3TableReader\X3TableReader\bin\Debug\netcoreapp2.2\X3TableReader.deps.json
+C:\Users\scott.jones\source\repos\X3TableReader\X3TableReader\bin\Debug\netcoreapp2.2\X3TableReader.runtimeconfig.json
+C:\Users\scott.jones\source\repos\X3TableReader\X3TableReader\bin\Debug\netcoreapp2.2\X3TableReader.runtimeconfig.dev.json
+C:\Users\scott.jones\source\repos\X3TableReader\X3TableReader\bin\Debug\netcoreapp2.2\X3TableReader.dll
+C:\Users\scott.jones\source\repos\X3TableReader\X3TableReader\bin\Debug\netcoreapp2.2\X3TableReader.pdb
+C:\Users\scott.jones\source\repos\X3TableReader\X3TableReader\obj\Debug\netcoreapp2.2\X3TableReader.csprojAssemblyReference.cache
+C:\Users\scott.jones\source\repos\X3TableReader\X3TableReader\obj\Debug\netcoreapp2.2\X3TableReader.csproj.CoreCompileInputs.cache
+C:\Users\scott.jones\source\repos\X3TableReader\X3TableReader\obj\Debug\netcoreapp2.2\X3TableReader.AssemblyInfoInputs.cache
+C:\Users\scott.jones\source\repos\X3TableReader\X3TableReader\obj\Debug\netcoreapp2.2\X3TableReader.AssemblyInfo.cs
+C:\Users\scott.jones\source\repos\X3TableReader\X3TableReader\obj\Debug\netcoreapp2.2\X3TableReader.dll
+C:\Users\scott.jones\source\repos\X3TableReader\X3TableReader\obj\Debug\netcoreapp2.2\X3TableReader.pdb
